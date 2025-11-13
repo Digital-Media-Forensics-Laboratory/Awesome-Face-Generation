@@ -44,13 +44,7 @@ Awesome-FaceGeneration/
 │   ├── EchoMimic/
 │   ├── FLOAT/
 │   └── README.md
-│
-├── utils/                         # 通用工具与预处理脚本
-│   ├── face_crop.py
-│   ├── video2frames.py
-│   ├── merge_results.py
-│   ├── evaluate_metrics.py
-│   └── visualization.py
+
 ```
 ---
 ## 📚 模块划分与方法概览
