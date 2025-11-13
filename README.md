@@ -1,4 +1,4 @@
-# 🎬 Awesome Face Generation Zoo
+# 🎬 Awesome Face Generation
 
 本仓库系统整理了 **人脸生成与伪造（DeepFake）相关的代表性方法**，涵盖以下三大方向：
 
