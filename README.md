@@ -85,7 +85,7 @@ Awesome-FaceGeneration/
 | [IP-LAP](https://github.com/Weizhi-Zhong/IP_LAP) | 2023 | https://github.com/Weizhi-Zhong/IP_LAP |
 | AniTalker | — | — |
 | EDTalk | — | — |
-| Real3D-Portrait | — | — |
+| [Real3D-Portrait](https://github.com/yerfor/Real3DPortrait) | 2024 | https://github.com/yerfor/Real3DPortrait |
 | EchoMimic | — | — |
 | FLOAT | — | — |
 
