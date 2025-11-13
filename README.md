@@ -24,7 +24,6 @@ Awesome-FaceGeneration/
 │   ├── MobileFaceSwap/
 │   ├── BlendFace/
 │   ├── FaceFusion/
-│   └── README.md
 │
 ├── FaceReenactment/               # 人脸重演方法
 │   ├── DaGAN/
@@ -33,7 +32,6 @@ Awesome-FaceGeneration/
 │   ├── HyperReenact/
 │   ├── LIA/
 │   ├── LivePortrait/
-│   └── README.md
 │
 ├── TalkingFace/                   # 语音驱动说话人脸方法
 │   ├── SadTalker/
@@ -43,7 +41,6 @@ Awesome-FaceGeneration/
 │   ├── Real3D-Portrait/
 │   ├── EchoMimic/
 │   ├── FLOAT/
-│   └── README.md
 
 ```
 ---
