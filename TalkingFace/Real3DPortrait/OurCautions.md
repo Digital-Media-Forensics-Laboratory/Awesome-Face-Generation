@@ -1,6 +1,3 @@
-# 原README
-old_README文件夹目录
-
 # 复现服务器
 4090
 
